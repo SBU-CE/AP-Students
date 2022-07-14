@@ -1,6 +1,7 @@
 ### We are the students of AP course in Spring 2021.
 
 - Amir Hallaji [Project](https://github.com/amirhallaji/Computational-Intelligence)
+- Zahra Farsi  [Project](https://github.com/Zahra-Farsi/git-hw.git)
 - Shahrzad Javadi-koushesh [project](https://github.com/shahrzad-JK/shahrzad-s-homework.git)
 - Amirreza Eftekhari [Project](https://github.com/AmirEfi/FamiliarityWithGit)
 - Amirhossein izadi [project](https://github.com/amirhossein-izadi/test.git)
