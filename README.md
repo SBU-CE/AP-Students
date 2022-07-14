@@ -1,6 +1,7 @@
 ### We are the students of AP course in Spring 2021.
 
 - Amir Hallaji [Project](https://github.com/amirhallaji/Computational-Intelligence)
+- seyed mostafa atyabi [Project](https://github.com/seyed-mostafa/tamrin)
 - Mehrshad Mohammadi dost[Project](https://github.com/MehrshadMohammadiDost/HomeWork.git)
 - Parsa Jahantab [Project](https://github.com/ParsaJahantab/git-hw)
 - mohammad fallah [project](https://github.com/mohamadfh/githw)
