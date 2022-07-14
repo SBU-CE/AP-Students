@@ -1,6 +1,7 @@
 ### We are the students of AP course in Spring 2021.
 
 - Amir Hallaji [Project](https://github.com/amirhallaji/Computational-Intelligence)
+- Hora Haghighatkhah [project](https://github.com/horahagh16/git.hw.git)
 - Meysam Bavi [Project](https://github.com/MeysamBavi/git-hw)
 - Amirreza  Ahmadi [project](https://github.com/amir-r-z-a/git-HW.git)
 - arman ghafarnia [project](https://github.com/iamarman7/armani.git)
