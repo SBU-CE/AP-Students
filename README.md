@@ -1,6 +1,7 @@
 ### We are the students of AP course in Spring 2021.
 
 - Amir Hallaji [Project](https://github.com/amirhallaji/Computational-Intelligence)
+- Amirreza Eftekhari [Project](https://github.com/AmirEfi/FamiliarityWithGit)
 - Amirhossein izadi [project](https://github.com/amirhossein-izadi/test.git)
 - sina taheri behrooze (tamrin_3_ap_git)(https://github.com/sinatb/tamrin_3_ap.git)
 - seyed mostafa atyabi [Project](https://github.com/seyed-mostafa/tamrin)
