@@ -5,7 +5,7 @@
 - Shahrzad Javadi-koushesh [project](https://github.com/shahrzad-JK/shahrzad-s-homework.git)
 - Amirreza Eftekhari [Project](https://github.com/AmirEfi/FamiliarityWithGit)
 - Amirhossein izadi [project](https://github.com/amirhossein-izadi/test.git)
-- sina taheri behrooze (tamrin_3_ap_git)(https://github.com/sinatb/tamrin_3_ap.git)
+- sina taheri behrooze [tamrin_3_ap_git](https://github.com/sinatb/tamrin_3_ap.git)
 - seyed mostafa atyabi [Project](https://github.com/seyed-mostafa/tamrin)
 - Mehrshad Mohammadi dost[Project](https://github.com/MehrshadMohammadiDost/HomeWork.git)
 - Parsa Jahantab [Project](https://github.com/ParsaJahantab/git-hw)
